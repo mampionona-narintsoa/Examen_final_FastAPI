@@ -1,0 +1,11 @@
+
+    openapi: 3.0.3
+    info:
+      title: STD24055
+      version: 1.0.0
+    servers:
+      - url: 'http://localhost:8000'
+    paths:
+      description: "This is a specification of <STD24055>"
+
+
